@@ -8,5 +8,6 @@ counter = 0
 for element in   arr:
    if element.get(str):
        counter += 1
+       print(element)
 
 print(counter)
